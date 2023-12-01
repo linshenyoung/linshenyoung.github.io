@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LinsY     /     AI4All"
+title                    : "YangLins' Site / AI4Everything"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Linshen-Yang"
-  avatar           : "yls_profile.png"
+  avatar           : "profile.png"
   bio              : "He is currently pursuiting a Bachelor's Degree from TGU"
   location         : "Tianjin China"
   employer         :
