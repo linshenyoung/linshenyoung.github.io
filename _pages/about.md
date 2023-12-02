@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-An undergraduate student who is currently pursuiting a Bachelor's Degree from TGU, majoring in Artificial Intelligence. He has been admitted to UESTC through postgraduate recommendation. His research interests mainly include deep learning / pattern recognition / machine vision(semantic segmentation and object detection based on RGB-T images). He is willing to share and acquire knowledge.
+An undergraduate student who is currently pursuiting a Bachelor's Degree from TGU, majoring in Artificial Intelligence. He has been admitted to UESTC through postgraduate recommendation. His research interests mainly include deep learning/pattern recognition/machine vision(semantic segmentation and object detection based on RGB-T images). He is willing to share and acquire knowledge.
 
 A data-driven personal website
 ======
