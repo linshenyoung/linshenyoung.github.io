@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, and welcome! This is a website used for Paper/Code/Life"
+title: "Hello, and welcome!<br />This is a website used for Paper/Code/Life"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
